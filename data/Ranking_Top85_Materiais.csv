@@ -1,0 +1,86 @@
+﻿Rank;Codigo;Produto;Pedidos;Qtd_Entregue;Unidade_Venda;Peso_kg;Volume_m3;Dado_Estimado;Fonte
+1;14900;ARGAMASSA VARANDAS E QUINTAIS 15KG QUARTZOLIT;98;1.447,00 UN;Saco (papel/plástico) 15 kg;15,0;≈0,009 (estimado);SIM;"Quartzolit/Weber (ficha técnica); aecweb.com.br"
+2;15624;REJUNTE QUARTZOLIT CZ PLATINA - 1KG;76;502,00 UN;Pacote/saco plástico 1 kg;1,0;0,00092;NAO;"NetKoll; Tosel"
+3;21503;CIMENTO POTY TODAS OBRAS 50KG;74;1.833,00 UN;Saco de papel kraft multifoliado 50 kg;50,0;0,036;NAO;"CDR Pisos; Mapa da Obra (ficha técnica Poty); Estruturas&BIM"
+4;12532;ARGAMASSA ACIII QUARTZOLIT-15KG;66;802,00 UN;Saco (papel 15kg, plástico 15kg ou 20kg conforme lote);15,0;≈0,009 (estimado);SIM;"Quartzolit/Weber; aecweb.com.br"
+5;21246;"PISO CERBRAS IPANEMA CINZA 46 X 46 ""A""";41;1.076,78 MT (m²);Caixa com 11 peças = 2,30 m²;28,28 /caixa;≈0,019 (estimado);SIM;"Ficha técnica Cerbras (PDF); Beny; Cazanova Construção"
+6;8608;ARGAMASSA VOTOMASSA ACII 15KG EXTERNA;40;625,00 UN;Saco de papel kraft 15 kg;15,0;≈0,010 (estimado);SIM;"Ficha técnica Votorantim Cimentos (PDF); Roque BR"
+7;14557;ARGAMASSA COZINHAS / BANHEIROS 15KG QUARTZOLIT;36;463,00 UN;Saco (papel 15kg, plástico 15kg ou 20kg conforme lote);15,0;≈0,009 (estimado);SIM;"Quartzolit/Weber (ficha técnica PDF); aecweb.com.br"
+8;21243;"PISO CERBRAS IPANEMA BEGE 46 X 46 ""A""";28;722,20 MT (m²);Caixa com 11 peças = 2,30 m²;28,28 /caixa;≈0,020 (estimado);SIM;"Ficha técnica Cerbras (PDF); Jurunense; Armazém Coral"
+9;24606;PISO POINTER GIOIA ORO 60 X 60 BR REF. 21211;27;923,45 MT (m²);Caixa com 7 peças = 2,53 m²;≈43 /caixa (estimado);≈0,027 (estimado);SIM;"Armazém Coral; listagens Pointer/Cazanova"
+10;13697;VALVULA POLYFORT P/LAVAT BRANCA;18;29,00 UN;Unidade (blister/cartela);≈0,12 (estimado);≈0,0003 (estimado);SIM;"Fortlev (ficha técnica PDF); Ducon Metais; Dalla Home Center"
+11;8236;ANEL JAPI DE VEDAÇÃO COM GUIA P/ VASO SANIT;18;20,00 UN;Unidade (caixa/blister);0,250;0,00065;NAO;"Dalla Home Center; Lojas Solar"
+12;7792;SIFAO ASTRA SANF SIMPLES UNIVERSAL PLAST BCO;18;31,00 UN;Unidade;0,095;≈0,0019 (estimado);SIM;"Astra (astra-sa.com); Casa Mimosa"
+13;24287;"PISO KARINA REF. 68027 ""A"" 60 X 120 RET POLIDO CLIPSE ORO";16;94,47 MT (m²);Caixa com 3 peças = 2,18 m²;≈40 /caixa (estimado, faixa 35,7-44);≈0,032 (estimado);SIM;"Sperandio; Central dos Pisos Contagem; Rose Pisos"
+14;24852;"PISO CERBRAS IPANEMA CINZA 46 X 46 ""C""";15;295,10 MT (m²);Caixa com 11 peças = 2,30 m²;"28,28 /caixa (assumido = categoria ""A"")";≈0,020 (estimado);SIM;"Ficha técnica Cerbras (PDF); RevestirHomeCenter"
+15;5648;CONJ CELITE ACOP SAVEIRO BRANCO;14;15,00 UN;Conjunto (bacia + caixa acoplada 3/6L);≈31,42 (conjunto);≈0,178 (estimado);SIM;"Celite (site oficial); listagens de varejo"
+16;11763;"PISO CERBRAS ICAPUI BR 46 X 46 ""A""";13;85,10 MT (m²);Caixa com 11 peças = 2,30 m²;28,28 /caixa;≈0,020 (estimado);SIM;"Oca Revestimentos; Jacaré Home Center; Apotiguar"
+17;14901;ARGAMASSA PORC E PISO S/ PISO INT CINZA 15KG QUARTZOLIT;13;187,00 UN;Saco 15 kg;15,0;0,0278;NAO;"Quartzolit/Weber (página oficial); Normatel"
+18;23988;PARAFUSO EUROFIX P/SANIT B-10 LATONADO C/02;13;17,00 UN;Pacote/cartela com 2 unidades;≈0,04 (estimado);≈0,00033 (estimado);SIM;"Tambasa (produto análogo); Compensa Mais; Boni"
+19;17400;CUNHA CORTAG SLIM PARA NIVELAMENTO;13;23,00 UN;Pacote/saquinho com 100 unidades;≈0,45 (faixa 0,40-0,47);≈0,00075 (estimado);SIM;"Leroy Merlin; FG Ferramentas; Ritec (caixa 1000un)"
+20;11479;REJUNTE VOTOMASSA CZ PLATINA 1KG;13;80,00 UN;Pacote/saco 1 kg;1,0;0,00086;NAO;"Leroy Merlin; Construleo"
+21;17250;REJ QUARTZOLIT BEGE - 1KG;12;55,00 UN;Pacote (saco plástico) 1 kg;1,008;0,00092;NAO;aecweb.com.br
+22;9861;PARAFUSO TORALF DE FIXAÇAO PA;12;13,00 ?;Unidade (peça avulsa);≈0,010 (estimado);≈0,000006 (estimado);SIM;Estimado por analogia (sem ficha técnica pública)
+23;20201;ARGAMASSA PISO SOBRE PISO EXTERNO CINZA 15KG QUARTZOLIT;11;151,00 UN;Saco 15 kg;15,0;≈0,0278 (estimado);SIM;"Boletim Técnico Quartzolit/Weber (PDF); revestirhomecenter.com.br"
+24;15171;ENGATE KRONA 40CM;11;16,00 UN;Unidade (blister);0,168;0,0012;NAO;madeiramadeira.com.br
+25;17156;REJ MARROM CAFÉ QUARTZOLIT - 1KG;11;25,00 UN;Pacote (saco plástico) 1 kg;1,008;0,00092;NAO;Mesma linha do rejunte 1kg Quartzolit (aecweb.com.br)
+26;17170;LATEX FORTEX BRANCO GELO 15L FORTMAIS;11;20,00 UN;Balde 15 L;≈19,5-20,0 (estimado);≈0,020 (estimado);SIM;"tintasfortex.com.br; madeiramadeira.com.br (peso não publicado)"
+27;9192;"PISO CERBRAS NAPOLI POLIDO 56 X 56 ""A""";11;492,75 MT;Caixa (7 peças = 2,19 m²);36,7 /caixa;0,0171 (calculado);SIM;"Ficha técnica Cerbras (PDF); beny.com.br; milanocenter.com.br"
+28;11906;REJUNTE QUARTZOLIT P/PORCELANATO CZ PLATINA 1KG FD;11;51,00 ?;Pacote (saco plástico) 1 kg;1,008;0,00092;NAO;Mesma linha do rejunte 1kg Quartzolit (aecweb.com.br)
+29;8312;VALVULA GHEL PLUS INOX 3. 1/2;10;15,00 UN;Unidade (saco plástico);0,25;0,000768;NAO;"leroymerlin.com.br; ghelplus.com.br; construinox.com.br"
+30;24719;PISO CERBRAS PALAZZO POLIDO HD 75 X 75 A;10;432,00 MT;Caixa (4 peças = 2,29 m²);38,36 /caixa;≈0,026 (estimado);SIM;"Ficha linha Polido HD 75x75 Cerbras (PDF); obratecatacarejo.com.br"
+31;10559;"PISO CERBRAS NEVE 46 X 46 ""A""";10;66,70 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa;≈0,019 (estimado);SIM;"jurunense.com; armazemcoral.com.br"
+32;12184;CX. DAGUA BAKOF 500L C/TMP;10;10,00 UN;Unidade (caixa d'água c/ tampa);9,0 (vazia);≈0,84 (calculado, bounding box);SIM;"taqi.com.br; distribuidoralopes.com.br"
+33;3426;CANO KRONA AGUA SOLD 25MM;10;216,00 MT;Barra 6 m;9,5 (≈1,58 kg/m);≈0,00295 (calculado);SIM;"krona.com.br; lojasaosebastiao.com.br"
+34;17708;ESPACADOR CORTAG NIVELADOR SLIM 1,5MM VERMELHO;10;34,00 UN;Pacote (100 unidades);≈0,15-0,20 (estimado);≈0,00143 (estimado);SIM;"cortag.com; copafer.com.br"
+35;5815;REJ PRETO GRAFITE QUARTZOLIT-1Kg;10;58,00 KG;Pacote (1 kg);1,0;≈0,00069 (calculado);SIM;"leroymerlin.com.br; balaroti.com.br"
+36;22931;"PISO KARINA REF. 75032 ""A"" 75 X 75 RET POLIDO BLACK GOLD";10;107,59 MT;Caixa (~4 peças = 2,23 m²);39,40 /caixa;≈0,026 (estimado);SIM;"redemac.com.br; rosepisos.com.br"
+37;17198;LATEX FORTEX BRANCO NEVE 15L FORTMAIS;9;10,00 UN;Balde 15 L;≈20 (estimado);≈0,0216 (estimado);SIM;"tintasfortex.com.br; madeiramadeira.com.br (peso não publicado)"
+38;7319;"PISO CERBRAS CRISTAL 46 X 46 ""C""";9;236,90 MT;Caixa (11 peças = 2,30 m²);28,2 /caixa;≈0,019 (estimado);SIM;"beny.com.br; lojajmonte.com.br"
+39;6159;MASSA CORRIDA 25Kg FORTEX;8;13,00 UN;Balde 25 kg;25,0;≈0,0303 (estimado);SIM;"leroymerlin.com.br; obramax.com.br"
+40;21284;ARREMATE NOVAFORMA F STANDARD RODA FORRO;8;35,00 UN;Barra 6 m;≈0,6 (estimado);≈0,086 (estimado);SIM;"jurunense.com; dantasdistribuidora.com.br (peso/volume não publicados, por analogia)"
+41;15179;ENGATE KRONA 50CM;8;12,00 UN;Unidade (blister);≈0,08 (estimado);≈0,0006 (estimado);SIM;"krona.com.br; milium.com.br"
+42;6820;PISO CERBRAS ARARIPE CZ 46 X 46 ''C'';8;195,50 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa;≈0,020 (estimado);SIM;Ficha técnica Cerbras (PDF)
+43;12185;CX. DAGUA BAKOF 1000L C/TMP;7;7,00 UN;Unidade (caixa d'água c/ tampa);17,4 (vazia);≈2,11 (estimado, bounding box);SIM;"taqi.com.br; daquidali.com.br"
+44;24746;"PISO KARINA REF. 67019 ""A"" 60 X 60 LUMINE GOLD ESM";7;74,40 MT;Caixa (~7 peças = 2,48 m², estimado);≈36,9 (estimado);≈0,030 (estimado);SIM;"Referência exata não localizada — analogia com linha Karina 60x60 (madeiramadeira.com.br; rosepisos.com.br)"
+45;11796;"PISO CERBRAS AURORA BG 46 x 46 ""A""";7;121,90 MT;Caixa (11 peças = 2,30 m²);≈29,0;≈0,020 (estimado);SIM;"Ficha técnica Cerbras (PDF); acalhomecenter.com.br"
+46;5812;REJ QUARTZOLIT BRANCO - 1KG;7;21,00 UN;Pacote (1 kg);1,0;0,00092;NAO;"normatel.com.br; balaroti.com.br"
+47;17267;"PORC. CERBRAS OLIMPO POLIDO 70 X 70 ""A""";7;220,00 MT;Caixa (4 peças = 2,00 m²);37,0 /caixa;≈0,025 (estimado);SIM;"Ficha técnica Cerbras (PDF); bemol.com.br"
+48;22560;PISO CARMELO FIOR MELINDA 57 X 57MM HD A;7;80,29 MT;Caixa (8 peças = 2,59 m²);39,5 /caixa (bruto);≈0,022 (estimado);SIM;Referência exata não localizada — analogia com linha Carmelo Fior 57x57 (sperandioweb.com)
+49;5567;LAVAT. CELITE C/COL SAVERO/ ARIES BCO;7;7,00 UN;Unidade (conjunto lavatório+coluna);≈11,4 (estimado);≈0,160 (estimado);SIM;"Referência exata não localizada — analogia (celite.com.br; construbel.com.br)"
+50;12889;"PISO CERBRAS LUMINATTO BLANCO POLIDO 56 X 56 ""A""";7;162,66 MT;Caixa (7 peças = 2,19 m²);36,75 /caixa;≈0,020 (estimado);SIM;"Ficha técnica Cerbras (PDF); armazemcoral.com.br"
+51;11773;"PISO CERBRAS AURORA BR 46 X 46 ""A""";7;301,30 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa;≈0,017 (estimado);SIM;"jurunense.com; Ficha técnica Cerbras (PDF)"
+52;16186;"PORC. ZEUS POLIDO 70 X 70 ""A"" CERBRAS";7;194,00 MT;Caixa (4 peças = 2,00 m²);≈35 (estimado);≈0,021 (estimado);SIM;"ferreiracosta.com; engipec.com (peso estimado por analogia)"
+53;21810;"PISO KARINA ONIX BLACK RET REF. 75027 ""A"" 75 X 75";7;37,91 MT;Caixa (4 peças = 2,23 m²);38,042 /caixa;≈0,022 (estimado);SIM;"sperandioweb.com; liquidapiso.com.br"
+54;6875;REJ PALHA QUARTZOLIT - 1KG;7;28,00 UN;Pacote (1 kg);1,0;≈0,0008 (estimado);SIM;aecweb.com.br
+55;7366;PISO CERBRAS AURORA BR 46 X 46 ''C'';7;318,12 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa (igual cat. A);≈0,017 (estimado);SIM;Mesma peça do item AURORA BR 46x46 A
+56;15157;SELADOR FORTEX PIG BRANCO NEVE 15L;6;10,00 UN;Balde 15 L;≈18-19 (estimado);≈0,020-0,022 (estimado);SIM;"tintasfortex.com.br; acalhomecenter.com.br (peso não publicado)"
+57;4545;LIXA ATLAS P/ MASSA 120;6;32,00 UN;Unidade (folha 225x275mm);0,020 /folha;≈0,000025 /folha;NAO;"elevato.com.br; dallahomecenter.com.br"
+58;23387;"PISO KARINA RET. 69011 ""A"" 61 X 121 FILETO CANELA ESM";6;44,74 MT;Caixa (3 peças = 2,18-2,20 m²);41,875 /caixa;≈0,0206 (calculado);SIM;rosepisos.com.br
+59;22934;"REV. KARINA REF. 21003 ""A"" 20 X 120 CARVALHO CANELA RET H";6;37,68 MT;Caixa (~7 peças = ~1,70 m², estimado);≈31,4 (estimado);≈0,0156 (estimado);SIM;"Referência 21003 não localizada — analogia com linha Karina 20x120 (rosepisos.com.br; casteloforte.com.br)"
+60;14757;TOAMADA ROMAZI INT MDL 10A SP+TOM 10A PL 4X2 BR C25 CANOA;5;12,00 UN;Unidade (blister);≈0,060 (estimado);≈0,000231 (estimado);SIM;"romazi.com.br; cazanovaconstrucao.com.br (peso não publicado)"
+61;11812;PISO CERBRAS IPU MOGNO HD 46 X 46 'A';5;34,50 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa;≈0,0149 (calculado);SIM;"Ficha técnica Cerbras (PDF); lojajmonte.com.br"
+62;23101;PISO KARINA GOLDEN CARBON 60 X 120 A RET POLIDO REF: 6801;5;30,52 MT;Caixa (3 peças = 2,18 m²);≈42 (estimado);≈0,0201 (estimado);SIM;Referência 6801 não localizada exata — analogia linha Karina Golden Carbono (gruposimplifique.com.br)
+63;21283;FORRO NOVAFORMA GEMINI 200 X 8 X 4000;5;96,00 MT;Unidade (barra 4 m);≈1,20-1,25 (estimado);≈0,0064 (calculado);SIM;"madeiramadeira.com.br; jurunense.com (peso do SKU 4m não publicado)"
+64;24718;PISO POINTER ONIX OURO 60 X 60 BR REF. 207730;5;217,58 MT;Caixa (7 peças = 2,53 m²);≈43 (estimado);≈0,0186 (calculado);SIM;"natalhomecenter.com.br; comercialbatista.com.br"
+65;17995;ESPACADOR CORTAG NIVELADOR SLIM 1,0 MM AZUL;5;17,00 UN;Pacote (100 peças);≈0,200;≈0,00045 (estimado);SIM;"cortag.com; balaroti.com.br"
+66;8950;"TRINCHA ATLAS ""2"" CABO MARROM";5;5,00 UN;Unidade;≈0,055 (estimado);≈0,0012 (estimado);SIM;Analogia com Trincha Atlas 355 (bauru2000.com)
+67;5549;PIA GHELPLUS INOX 1,20MT;5;5,00 UN;Unidade;16,0;≈0,099 (estimado);SIM;"ghelplus.com.br; berlanda.com.br"
+68;12673;CANO KRONA ESGOTO 100MM;5;149,00 MT;Barra 6 m;3,0;≈0,0471 (calculado);SIM;333obra.com.br
+69;15636;SUPERGRAUTE QUARTZOLIT 25KG;5;16,00 UN;Saco 25 kg;25,0;≈0,018 (estimado);SIM;Ficha técnica Quartzolit Profissional (PDF)
+70;6615;TRELICA / ESPACADOR 6M LEVE MAIA;5;62,00 UN;Barra 6 m;≈3,5-4,0 (estimado);≈0,072 (estimado, envelope);SIM;"roquebr.com; guaxucabos.com.br (peso não publicado)"
+71;12890;"PISO CERBRAS IPU MARFIM HD 46 X 46 ""A""";5;57,50 MT;Caixa (11 peças = 2,30 m²);28,28 /caixa;≈0,0147 (calculado);SIM;"revestirhomecenter.com.br; Ficha técnica Cerbras (PDF)"
+72;7694;ASSENTO ASTRA SANIT SOFT BR1;5;5,00 UN;Unidade;1,0;≈0,0068 (calculado);SIM;amazon.com.br
+73;13540;DUCHA FLUX HIGIENICA CROMADA;5;10,00 UN;Unidade;0,220;≈0,00114 (calculado);SIM;normatel.com.br (modelo semi cromado, análogo)
+74;24590;PISO CERBRAS LUMINATO BLANCO POLIDO 75 X 75 A;5;60,75 MT;Caixa (4 peças = 2,29 m²);38,36 /caixa;≈0,0183 (calculado);SIM;"apotiguar.com.br; Ficha técnica Cerbras (PDF)"
+75;3011;CAIXA TRAMONTINA EMBUTIR 4 X 2 AMARELA;5;18,00 UN;Unidade;0,025;0,00034;NAO;copafer.com.br (Tramontina)
+76;20937;PORTA METALFLEX POSTIGO SPP 080 X 210 VL BRANCA ESQ;5;6,00 UN;Unidade;11,8;0,047 (embalagem);NAO;superproatacado.com.br
+77;3792;TELA COLUNA 8,00MM 7 X 14CM 6M AÇO CEARENSE;5;55,00 UN;Barra 6 m;≈10,78 (estimado);0,059 (envelope, estimado);SIM;Analogia com Belgo CBM 8mm 7x14cm 6m (leroymerlin.com.br)
+78;22036;REV. CARMELO FIOR TATO 32 X 57MM HD A;5;81,20 MT;Caixa (2,03 m²);≈30 (estimado);0,0149 (estimado);SIM;"joli.com.br; analogia com linha Carmelo Fior 32x57 (sodimac.com.br)"
+79;16582;"PORC. CERBRAS QUEBEC MATE 70 X 70 ""A""";4;82,00 MT;Caixa (4 peças = 2,00 m²);37,0 /caixa;0,0167 (calculado);SIM;Ficha técnica Cerbras (PDF)
+80;17330;LATEX MARFIM 15L FORTMAIS FORTEX;4;6,00 UN;Balde 15 L;≈19,5-21 (estimado);0,015 (estimado);SIM;tintasfortex.com.br (peso não publicado)
+81;14390;BLOCO DE ISOPOR BRANCO;4;243,00 UN;Unidade (bloco EPS);≈0,3-0,4 (estimado);0,0231 (estimado);SIM;obramax.com.br (tamanho de mercado mais comum, 100x33x7cm)
+82;5625;PIA GHELPLUS INOX 1,50MT;4;4,00 UN;Unidade;17,6;0,1014 (estimado);SIM;sertao.com.br
+83;20675;KIT BELLARENZO STANDER BELLARENZO;4;13,00 UN;Unidade/kit;≈0,3 (estimado);≈0,0012 (estimado);SIM;compensamais.com.br (kit específico não localizado, por analogia)
+84;7198;TANQUE FORTMAMORE FIBRA DUPLO 1,20M CORES/MARCAS DIVERSAS;4;4,00 UN;Unidade;≈13 (estimado);0,1584 (estimado);SIM;"madeiramadeira.com.br; aecweb.com.br (peso não publicado)"
+85;11595;LIXA ATLAS MANUAL 100;4;47,00 UN;Unidade (folha);≈0,02 (estimado);0,00006;SIM;brutools.com.br
